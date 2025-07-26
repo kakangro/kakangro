@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello, I'm Kakangro
 
-<!--
-**kakangro/kakangro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student @ Kwansei Gakuin University  
+📚 Majoring in Intelligent Mechanical Engineering & Computer Science  
+🌏 Based in Japan | Preparing for global internships (Amazon, etc.)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Languages: Python, C, JavaScript
+- Tools: Git, GitHub, VSCode, Jupyter, Arduino
+- Fields of Interest: Machine Learning, Embedded Systems, Robotics
+
+---
+
+## 📁 Projects
+| Name | Description |
+|------|-------------|
+| [sensor-fall-detection](https://github.com/kakangro/sensor-fall-detection) | Detect human falls with accelerometer + ML |
+| [portfolio-site](https://github.com/kakangro/portfolio-site) | My personal website (React + Tailwind) |
+
+---
+
+## 📫 Contact
+📧 Email: gksrmf45q@gmail.com  
+🌐 GitHub: [kakangro](https://github.com/kakangro)
